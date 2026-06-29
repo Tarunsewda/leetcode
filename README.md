@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tarunsewda/leetcode/tree/master/0001-two-sum) |
+| [0493-reverse-pairs](https://github.com/Tarunsewda/leetcode/tree/master/0493-reverse-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tarunsewda/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
 |  |
@@ -14,4 +15,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tarunsewda/leetcode/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Tarunsewda/leetcode/tree/master/0493-reverse-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Tarunsewda/leetcode/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Tarunsewda/leetcode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Tarunsewda/leetcode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Tarunsewda/leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Tarunsewda/leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
