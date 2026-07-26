@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Tarunsewda/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Tarunsewda/leetcode/tree/master/0011-container-with-most-water) |
 | [0493-reverse-pairs](https://github.com/Tarunsewda/leetcode/tree/master/0493-reverse-pairs) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Tarunsewda/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/Tarunsewda/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1331-rank-transform-of-an-array](https://github.com/Tarunsewda/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tarunsewda/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Tarunsewda/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tarunsewda/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Tarunsewda/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Tarunsewda/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Tarunsewda/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Tarunsewda/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tarunsewda/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
