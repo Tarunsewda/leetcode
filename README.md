@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Tarunsewda/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Tarunsewda/leetcode/tree/master/0011-container-with-most-water) |
+| [0486-predict-the-winner](https://github.com/Tarunsewda/leetcode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Tarunsewda/leetcode/tree/master/0493-reverse-pairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tarunsewda/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/Tarunsewda/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Tarunsewda/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tarunsewda/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tarunsewda/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tarunsewda/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Tarunsewda/leetcode/tree/master/0486-predict-the-winner) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Tarunsewda/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Bit Manipulation
 |  |
@@ -204,4 +207,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Tarunsewda/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Tarunsewda/leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Tarunsewda/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
